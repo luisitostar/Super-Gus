@@ -1,0 +1,19 @@
+# Bases de datos y datos privados
+*.db
+*.sqlite
+*.sqlite3
+
+# Archivos temporales de Python
+__pycache__/
+*.py[cod]
+
+# Entornos virtuales
+.venv/
+venv/
+
+# Archivos de compilación
+build/
+dist/
+
+# Configuración local
+.env
